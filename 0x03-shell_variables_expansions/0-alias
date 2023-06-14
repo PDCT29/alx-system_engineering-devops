@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Define a function that acts as an "alias"
+my_alias() {
+    echo "This is my alias behavior!"
+    # Add any commands or functionality you desire here
+}
+
+# Call the "alias" function
+my_alias
